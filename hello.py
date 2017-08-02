@@ -6,6 +6,6 @@ print ('everyone')
 print ('freedom')
 print ('happy')
 print ('family')
-print ('dkjajfkaj')
-print ('anlkanflam')
+print ('OK')
+print ('YEAR')
 
